@@ -1,5 +1,5 @@
 ### Welcome to janreipogi.github.io
 
-![Pizza](https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/8/23/0/FNM_100116-Classic-Crust_s4x3.jpg.rend.hgtvcom.616.462.suffix/1480972867043.jpeg)
+![Ateneo JHS](https://jhsportal.adnu.edu.ph/pluginfile.php/17657/mod_page/content/5/half_certificate_d.jpg)
 
-[My LMS](https://jhsportal.adnu.edu.ph)
+[LMS](https://jhsportal.adnu.edu.ph)
