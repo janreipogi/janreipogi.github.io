@@ -1,4 +1,4 @@
-### Ateneo de Naga University
+### My School: Ateneo de Naga University
 
 ![Ateneo JHS](https://jhsportal.adnu.edu.ph/pluginfile.php/17657/mod_page/content/5/half_certificate_d.jpg)![Ateneo Main Campus](https://live.staticflickr.com/5110/5626748561_b4f2fb924e_b.jpg)
 
